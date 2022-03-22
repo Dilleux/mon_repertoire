@@ -1,3 +1,11 @@
 Benjamin Capelle
 Pierrick Cavrois
 Mathis Cailleaud
+
+On a une branche principale master. Il s'agit des fichiers de base de notre 
+projet. On a crée une branche mon_fichier dans laquelle on peut travailler 
+de façon indépendante. Une fois que chaque fichier de mon_fichier fonctionne, 
+on les commit (enregistre avec un petit commentaire pour expliquer le role de 
+chacun), et donc tout est relié.
+Cet outil permet de programmer à plusieurs.
+ 
